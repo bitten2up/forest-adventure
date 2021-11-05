@@ -4,7 +4,7 @@ from os import path
 import PySimpleGUI as sg
 import os
 from ls import ls
-# Text based game for python by Sean Tipton
+# Text based game for python by litten1up
 # forest adventer
 # credit to
 #  https://thecodingpie.com/post/make-your-own-text-based-adventure-game-in-python3
